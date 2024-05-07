@@ -1,2 +1,2 @@
-Hello my names is Mohamed Said. I am a third year Comp Sci major at UofA. 
-
+Hello,  
+My name is Mohamed Said. I am a third year Computer Sciecne student at the University of Alberta. 
